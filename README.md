@@ -1,1 +1,1 @@
-Bu proje python ile yazılmıştır.
+Bu proje python kullanılarak yazılmıştır.
